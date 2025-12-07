@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "マヨイガ",
+  "base_artist": "Hitsujibungaku",
+  "createdAt": "2025-12-07T03:49:58.905556Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "マヨイガ",
+      "artist": "Hitsujibungaku",
+      "has_synced": true,
+      "path": "select/01_マヨイガ_Hitsujibungaku.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "マヨイガ",
+      "artist": "羊文学",
+      "has_synced": true,
+      "path": "select/02_マヨイガ_羊文学.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "マヨイガ",
+      "artist": "羊文学",
+      "has_synced": true,
+      "path": "select/03_マヨイガ_羊文学.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "マヨイガ",
+      "artist": "羊文学",
+      "has_synced": false,
+      "path": "select/pl_01_マヨイガ_羊文学.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "マヨイガ",
+      "artist": "羊文学",
+      "has_synced": false,
+      "path": "select/pl_02_マヨイガ_羊文学.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "マヨイガ",
+      "artist": "羊文学",
+      "has_synced": false,
+      "path": "select/pl_03_マヨイガ_羊文学.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "マヨイガ (Tour 2023 “if i were an angel,”)",
+      "artist": "羊文学",
+      "has_synced": false,
+      "path": "select/pl_04_マヨイガ_(Tour_2023_“if_i_were_an_angel,”)_羊文学.txt"
+    }
+  ]
+}
